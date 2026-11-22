@@ -1,4 +1,1 @@
-# SICP
-Also called The Wizard Book
-
-### Some solutions to exercises in SICP. This will take a while.
+Becoming a wizard takes time.
